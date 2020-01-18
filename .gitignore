@@ -1,2 +1,4 @@
-.gitignore
-node_modules
+config.json
+status.json
+node_modules/
+*.ts
