@@ -1,0 +1,27 @@
+{
+  "name": "game-support",
+  "version": "0.0.1",
+  "description": "A bot of games",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemnon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyPlox/game-support.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord",
+    "JS"
+  ],
+  "author": "Diego Aquino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TyPlox/game-support/issues"
+  },
+  "homepage": "https://github.com/TyPlox/game-support#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
